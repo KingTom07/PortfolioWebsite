@@ -1,13 +1,13 @@
-# Educational Group game 
+# Portfolio Website
 
 ## Description
-needs to be added!
+This is the code for my portfolio
 
 ## Running Instructions
-needs to be added!
+can be viewed online
 
 ## Author
-needs to be added!
+Tom Sammon
 
 ## Screenshot
 ![Screenshot](image)
